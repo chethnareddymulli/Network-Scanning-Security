@@ -1,0 +1,9 @@
+Starting Nmap 7.92 at 2025-02-21 12:05 UTC
+Nmap scan report for 192.168.1.1
+Host is up (0.001s latency).
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address scanned in 0.5 seconds.

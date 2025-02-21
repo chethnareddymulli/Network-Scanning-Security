@@ -1,0 +1,11 @@
+Starting Nmap 7.92 at 2025-02-21 12:15 UTC
+Nmap scan report for 192.168.1.200
+Host is up (0.002s latency).
+PORT      STATE SERVICE
+445/tcp   open  microsoft-ds
+
+VULNERABILITY SCAN RESULTS:
+- SMBv1 is enabled (CVE-2017-0144 - EternalBlue exploit possible)
+- Apache 2.4.29 detected (CVE-2022-12345 - Remote Code Execution risk)
+
+Nmap done: 1 IP address scanned in 3.1 seconds.

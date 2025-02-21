@@ -1,0 +1,10 @@
+Starting Nmap 7.92 at 2025-02-21 12:00 UTC
+Nmap scan report for 192.168.1.1 (Router)
+Host is up (0.001s latency).
+MAC Address: 00:1A:2B:3C:4D:5E (Cisco Systems)
+
+Nmap scan report for 192.168.1.2
+Host is up (0.002s latency).
+MAC Address: 00:1B:3C:4D:5E:6F (Intel Corporation)
+
+Nmap done: 256 IP addresses scanned, 10 hosts up.
